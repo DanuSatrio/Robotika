@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Hasil kompilasi Arduino (firmware disalin ke folder firmware/)
+build/
+
+# Kredensial asli (hanya secrets.example.h yang di-push)
+secrets.h
+
+# Materi kuliah, bukan karya sendiri
+E-Book/
+
+# Alat bantu lokal (tidak perlu di-push)
+CHECKLIST_GAMBAR.md
+cek_gambar.py
+
+# Sampah sistem
+.DS_Store
+Thumbs.db
